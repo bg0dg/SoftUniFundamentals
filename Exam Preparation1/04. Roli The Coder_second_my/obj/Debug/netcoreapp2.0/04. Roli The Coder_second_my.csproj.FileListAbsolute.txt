@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\bin\Debug\netcoreapp2.0\04. Roli The Coder_second_my.deps.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\bin\Debug\netcoreapp2.0\04. Roli The Coder_second_my.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\bin\Debug\netcoreapp2.0\04. Roli The Coder_second_my.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\bin\Debug\netcoreapp2.0\04. Roli The Coder_second_my.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\bin\Debug\netcoreapp2.0\04. Roli The Coder_second_my.pdb
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\obj\Debug\netcoreapp2.0\04. Roli The Coder_second_my.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\obj\Debug\netcoreapp2.0\04. Roli The Coder_second_my.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\obj\Debug\netcoreapp2.0\04. Roli The Coder_second_my.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\obj\Debug\netcoreapp2.0\04. Roli The Coder_second_my.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\obj\Debug\netcoreapp2.0\04. Roli The Coder_second_my.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder_second_my\obj\Debug\netcoreapp2.0\04. Roli The Coder_second_my.pdb

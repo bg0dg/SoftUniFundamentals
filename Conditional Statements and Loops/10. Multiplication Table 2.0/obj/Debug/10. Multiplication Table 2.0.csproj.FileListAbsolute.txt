@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\_10.Multiplication_Table_2._0.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\_10.Multiplication_Table_2._0.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\_10.Multiplication_Table_2._0.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\10. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\_10.Multiplication_Table_2._0.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\_10.Multiplication_Table_2._0.pdb

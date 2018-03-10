@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe.config
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.pdb
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\obj\Debug\Problem 5. Character Stats.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\obj\Debug\Problem 5. Character Stats.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.exe
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.pdb

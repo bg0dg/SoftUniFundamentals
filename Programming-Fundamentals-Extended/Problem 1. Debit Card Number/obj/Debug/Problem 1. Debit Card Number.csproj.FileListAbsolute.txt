@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb

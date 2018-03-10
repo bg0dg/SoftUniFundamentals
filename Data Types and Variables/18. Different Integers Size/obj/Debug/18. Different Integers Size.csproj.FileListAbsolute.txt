@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\obj\Debug\18. Different Integers Size.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\obj\Debug\13. Factorial_Frame.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\obj\Debug\13. Factorial_Frame.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\bin\Debug\_13.Factorial_Frame.exe.config
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\bin\Debug\_13.Factorial_Frame.exe
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\bin\Debug\_13.Factorial_Frame.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\obj\Debug\_13.Factorial_Frame.exe
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial_Frame\obj\Debug\_13.Factorial_Frame.pdb

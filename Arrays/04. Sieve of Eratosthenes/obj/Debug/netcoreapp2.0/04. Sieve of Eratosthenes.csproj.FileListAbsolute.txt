@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\04. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\04. Sieve of Eratosthenes.pdb

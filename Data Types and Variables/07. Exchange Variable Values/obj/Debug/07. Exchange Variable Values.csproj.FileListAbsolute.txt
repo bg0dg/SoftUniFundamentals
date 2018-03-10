@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\07. Exchange Variable Values\obj\Debug\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

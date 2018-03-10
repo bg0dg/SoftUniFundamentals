@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.deps.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.pdb
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.pdb

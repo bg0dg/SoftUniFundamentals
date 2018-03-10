@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

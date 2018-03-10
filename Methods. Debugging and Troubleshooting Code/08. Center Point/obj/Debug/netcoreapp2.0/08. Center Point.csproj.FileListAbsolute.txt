@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\bin\Debug\netcoreapp2.0\08. Center Point.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\bin\Debug\netcoreapp2.0\08. Center Point.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\bin\Debug\netcoreapp2.0\08. Center Point.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\bin\Debug\netcoreapp2.0\08. Center Point.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\bin\Debug\netcoreapp2.0\08. Center Point.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\obj\Debug\netcoreapp2.0\08. Center Point.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\obj\Debug\netcoreapp2.0\08. Center Point.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\obj\Debug\netcoreapp2.0\08. Center Point.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\obj\Debug\netcoreapp2.0\08. Center Point.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\obj\Debug\netcoreapp2.0\08. Center Point.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\08. Center Point\obj\Debug\netcoreapp2.0\08. Center Point.pdb

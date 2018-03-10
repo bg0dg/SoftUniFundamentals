@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\bin\Debug\netcoreapp2.0\03. Fold and Sum.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\bin\Debug\netcoreapp2.0\03. Fold and Sum.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\bin\Debug\netcoreapp2.0\03. Fold and Sum.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\bin\Debug\netcoreapp2.0\03. Fold and Sum.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\bin\Debug\netcoreapp2.0\03. Fold and Sum.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\obj\Debug\netcoreapp2.0\03. Fold and Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\obj\Debug\netcoreapp2.0\03. Fold and Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\obj\Debug\netcoreapp2.0\03. Fold and Sum.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\obj\Debug\netcoreapp2.0\03. Fold and Sum.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\obj\Debug\netcoreapp2.0\03. Fold and Sum.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum\obj\Debug\netcoreapp2.0\03. Fold and Sum.pdb

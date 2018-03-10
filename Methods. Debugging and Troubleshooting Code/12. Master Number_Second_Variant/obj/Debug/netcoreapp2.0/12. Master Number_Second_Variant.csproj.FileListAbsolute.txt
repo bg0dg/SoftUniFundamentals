@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\bin\Debug\netcoreapp2.0\12. Master Number_Second_Variant.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\bin\Debug\netcoreapp2.0\12. Master Number_Second_Variant.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\bin\Debug\netcoreapp2.0\12. Master Number_Second_Variant.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\bin\Debug\netcoreapp2.0\12. Master Number_Second_Variant.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\bin\Debug\netcoreapp2.0\12. Master Number_Second_Variant.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\obj\Debug\netcoreapp2.0\12. Master Number_Second_Variant.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\obj\Debug\netcoreapp2.0\12. Master Number_Second_Variant.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\obj\Debug\netcoreapp2.0\12. Master Number_Second_Variant.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\obj\Debug\netcoreapp2.0\12. Master Number_Second_Variant.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\obj\Debug\netcoreapp2.0\12. Master Number_Second_Variant.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number_Second_Variant\obj\Debug\netcoreapp2.0\12. Master Number_Second_Variant.pdb

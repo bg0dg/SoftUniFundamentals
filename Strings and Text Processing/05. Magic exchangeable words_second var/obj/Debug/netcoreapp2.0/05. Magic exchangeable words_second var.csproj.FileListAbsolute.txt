@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\obj\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\obj\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\obj\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\obj\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\bin\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.deps.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\bin\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\bin\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\bin\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\bin\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.pdb
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\obj\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words_second var\obj\Debug\netcoreapp2.0\05. Magic exchangeable words_second var.pdb

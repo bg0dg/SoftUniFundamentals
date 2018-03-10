@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.deps.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.pdb
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.pdb
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.csprojResolveAssemblyReference.cache

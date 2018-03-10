@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe.config
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.pdb
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 3. Miles to Kilometers\obj\Debug\Problem 3. Miles to Kilometers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.exe
+E:\SoftUni\source\repos_fundamentals\Programming-Fundamentals-Extended\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.pdb

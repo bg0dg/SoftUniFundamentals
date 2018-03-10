@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.deps.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.pdb
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.pdb

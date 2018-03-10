@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.deps.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.pdb
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.pdb

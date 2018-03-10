@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

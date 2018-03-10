@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\bin\Debug\netcoreapp2.0\02. Rotate and Sum.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\02. Rotate and Sum\obj\Debug\netcoreapp2.0\02. Rotate and Sum.pdb

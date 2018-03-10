@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\bin\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\06. Max Sequence of Equal Elements_different Solution\obj\Debug\netcoreapp2.0\06. Max Sequence of Equal Elements_different Solution.pdb

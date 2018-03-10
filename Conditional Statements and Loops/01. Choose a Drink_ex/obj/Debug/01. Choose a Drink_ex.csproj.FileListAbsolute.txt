@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\bin\Debug\_01.Choose_a_Drink_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\bin\Debug\_01.Choose_a_Drink_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\bin\Debug\_01.Choose_a_Drink_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\obj\Debug\01. Choose a Drink_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\obj\Debug\01. Choose a Drink_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\obj\Debug\_01.Choose_a_Drink_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Choose a Drink_ex\obj\Debug\_01.Choose_a_Drink_ex.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.deps.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.pdb
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\02. Extract Sentences by Keyword_second\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword_second.pdb

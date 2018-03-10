@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\bin\Debug\_03.Restaurant_Discount_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\bin\Debug\_03.Restaurant_Discount_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\bin\Debug\_03.Restaurant_Discount_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\obj\Debug\03. Restaurant Discount_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\obj\Debug\03. Restaurant Discount_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\obj\Debug\_03.Restaurant_Discount_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\03. Restaurant Discount_ex\obj\Debug\_03.Restaurant_Discount_ex.pdb

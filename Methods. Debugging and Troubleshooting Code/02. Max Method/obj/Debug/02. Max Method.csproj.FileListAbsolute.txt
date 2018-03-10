@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\02. Max Method\bin\Debug\_02.Max_Method.exe.config
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\02. Max Method\bin\Debug\_02.Max_Method.exe
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\02. Max Method\bin\Debug\_02.Max_Method.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\02. Max Method\obj\Debug\02. Max Method.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\02. Max Method\obj\Debug\_02.Max_Method.exe
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\02. Max Method\obj\Debug\_02.Max_Method.pdb

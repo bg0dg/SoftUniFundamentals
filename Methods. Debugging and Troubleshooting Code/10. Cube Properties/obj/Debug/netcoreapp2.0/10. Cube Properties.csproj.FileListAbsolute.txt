@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.pdb

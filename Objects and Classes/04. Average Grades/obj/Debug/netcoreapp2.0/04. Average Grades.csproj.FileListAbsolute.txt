@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.pdb

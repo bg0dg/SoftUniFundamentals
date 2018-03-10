@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.deps.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.pdb
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.pdb

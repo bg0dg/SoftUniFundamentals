@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\bin\Debug\_01.Passed.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\bin\Debug\_01.Passed.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\bin\Debug\_01.Passed.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\obj\Debug\01. Passed.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\obj\Debug\01. Passed.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\obj\Debug\_01.Passed.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\01. Passed\obj\Debug\_01.Passed.pdb

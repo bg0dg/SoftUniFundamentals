@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\bin\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\bin\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\bin\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\bin\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\bin\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\obj\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\obj\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\obj\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\obj\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\obj\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\03. Fold and Sum_Better Solution\obj\Debug\netcoreapp2.0\03. Fold and Sum_Better Solution.pdb

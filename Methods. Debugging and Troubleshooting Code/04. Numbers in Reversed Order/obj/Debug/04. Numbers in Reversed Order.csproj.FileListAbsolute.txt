@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

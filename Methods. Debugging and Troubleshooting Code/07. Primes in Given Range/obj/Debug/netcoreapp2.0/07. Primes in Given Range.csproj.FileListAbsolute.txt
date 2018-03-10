@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\obj\Debug\netcoreapp2.0\07. Primes in Given Range.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\obj\Debug\netcoreapp2.0\07. Primes in Given Range.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\obj\Debug\netcoreapp2.0\07. Primes in Given Range.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\obj\Debug\netcoreapp2.0\07. Primes in Given Range.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\bin\Debug\netcoreapp2.0\07. Primes in Given Range.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\bin\Debug\netcoreapp2.0\07. Primes in Given Range.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\bin\Debug\netcoreapp2.0\07. Primes in Given Range.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\bin\Debug\netcoreapp2.0\07. Primes in Given Range.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\bin\Debug\netcoreapp2.0\07. Primes in Given Range.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\obj\Debug\netcoreapp2.0\07. Primes in Given Range.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\07. Primes in Given Range\obj\Debug\netcoreapp2.0\07. Primes in Given Range.pdb

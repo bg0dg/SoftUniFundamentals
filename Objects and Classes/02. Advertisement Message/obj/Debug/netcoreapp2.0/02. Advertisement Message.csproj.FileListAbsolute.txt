@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.pdb

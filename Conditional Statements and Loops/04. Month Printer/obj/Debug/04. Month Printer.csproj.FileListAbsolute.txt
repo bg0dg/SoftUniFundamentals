@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Month Printer\bin\Debug\_04.Month_Printer.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Month Printer\bin\Debug\_04.Month_Printer.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Month Printer\bin\Debug\_04.Month_Printer.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Month Printer\obj\Debug\04. Month Printer.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Month Printer\obj\Debug\_04.Month_Printer.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Month Printer\obj\Debug\_04.Month_Printer.pdb

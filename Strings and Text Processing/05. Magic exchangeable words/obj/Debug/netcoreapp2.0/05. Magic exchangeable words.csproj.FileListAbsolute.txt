@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.deps.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.pdb
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.pdb

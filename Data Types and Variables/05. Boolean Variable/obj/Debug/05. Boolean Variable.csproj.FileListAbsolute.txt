@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\05. Boolean Variable\obj\Debug\05. Boolean Variable.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

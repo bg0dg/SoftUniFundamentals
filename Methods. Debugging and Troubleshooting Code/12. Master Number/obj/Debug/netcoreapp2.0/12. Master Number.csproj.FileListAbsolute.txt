@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.pdb

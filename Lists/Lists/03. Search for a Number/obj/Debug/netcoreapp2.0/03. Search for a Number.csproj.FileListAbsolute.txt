@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.deps.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.pdb
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

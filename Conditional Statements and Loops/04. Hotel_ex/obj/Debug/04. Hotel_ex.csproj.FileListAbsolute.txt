@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\bin\Debug\_04.Hotel_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\bin\Debug\_04.Hotel_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\bin\Debug\_04.Hotel_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\obj\Debug\04. Hotel_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\obj\Debug\04. Hotel_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\obj\Debug\_04.Hotel_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\04. Hotel_ex\obj\Debug\_04.Hotel_ex.pdb

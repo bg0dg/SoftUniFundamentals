@@ -1,0 +1,10 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.pdb

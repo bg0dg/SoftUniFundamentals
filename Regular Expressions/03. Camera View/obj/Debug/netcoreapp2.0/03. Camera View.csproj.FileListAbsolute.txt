@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.deps.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.pdb
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.pdb

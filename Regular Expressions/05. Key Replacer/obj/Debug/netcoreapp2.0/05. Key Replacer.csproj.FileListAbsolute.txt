@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\bin\Debug\netcoreapp2.0\05. Key Replacer.deps.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\bin\Debug\netcoreapp2.0\05. Key Replacer.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\bin\Debug\netcoreapp2.0\05. Key Replacer.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\bin\Debug\netcoreapp2.0\05. Key Replacer.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\bin\Debug\netcoreapp2.0\05. Key Replacer.pdb
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\obj\Debug\netcoreapp2.0\05. Key Replacer.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\obj\Debug\netcoreapp2.0\05. Key Replacer.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\obj\Debug\netcoreapp2.0\05. Key Replacer.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\obj\Debug\netcoreapp2.0\05. Key Replacer.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\obj\Debug\netcoreapp2.0\05. Key Replacer.dll
+E:\SoftUni\source\repos_fundamentals\Regular Expressions\05. Key Replacer\obj\Debug\netcoreapp2.0\05. Key Replacer.pdb

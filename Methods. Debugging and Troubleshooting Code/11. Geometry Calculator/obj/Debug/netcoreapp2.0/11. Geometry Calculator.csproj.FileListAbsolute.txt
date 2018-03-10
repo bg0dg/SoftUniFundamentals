@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.pdb

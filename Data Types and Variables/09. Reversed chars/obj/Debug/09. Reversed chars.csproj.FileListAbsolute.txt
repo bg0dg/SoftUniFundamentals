@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\09. Reversed chars\obj\Debug\09. Reversed chars.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

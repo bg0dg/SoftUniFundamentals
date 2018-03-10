@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\bin\Debug\_08.Calories_Counter_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\bin\Debug\_08.Calories_Counter_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\bin\Debug\_08.Calories_Counter_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\obj\Debug\08. Calories Counter_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\obj\Debug\08. Calories Counter_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\obj\Debug\_08.Calories_Counter_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\08. Calories Counter_ex\obj\Debug\_08.Calories_Counter_ex.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\bin\Debug\netcoreapp2.0\04. Roli The Coder.deps.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\bin\Debug\netcoreapp2.0\04. Roli The Coder.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\bin\Debug\netcoreapp2.0\04. Roli The Coder.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\bin\Debug\netcoreapp2.0\04. Roli The Coder.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\bin\Debug\netcoreapp2.0\04. Roli The Coder.pdb
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\obj\Debug\netcoreapp2.0\04. Roli The Coder.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\obj\Debug\netcoreapp2.0\04. Roli The Coder.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\obj\Debug\netcoreapp2.0\04. Roli The Coder.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\obj\Debug\netcoreapp2.0\04. Roli The Coder.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\obj\Debug\netcoreapp2.0\04. Roli The Coder.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\04. Roli The Coder\obj\Debug\netcoreapp2.0\04. Roli The Coder.pdb

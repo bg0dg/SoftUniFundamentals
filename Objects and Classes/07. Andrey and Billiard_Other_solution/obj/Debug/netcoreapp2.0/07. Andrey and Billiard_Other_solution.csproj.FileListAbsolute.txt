@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\obj\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\obj\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\obj\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\obj\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\bin\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\bin\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\bin\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\bin\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\bin\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\obj\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\07. Andrey and Billiard_Other_solution\obj\Debug\netcoreapp2.0\07. Andrey and Billiard_Other_solution.pdb

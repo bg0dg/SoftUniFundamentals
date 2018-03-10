@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.deps.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.pdb
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\02. Convert from base-N to base-10_second_solution\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10_second_solution.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe.config
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.pdb
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\obj\Debug\02. Add Two Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\obj\Debug\02. Add Two Numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.exe
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.pdb

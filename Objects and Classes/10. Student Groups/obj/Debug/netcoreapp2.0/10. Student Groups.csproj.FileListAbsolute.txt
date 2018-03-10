@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.pdb

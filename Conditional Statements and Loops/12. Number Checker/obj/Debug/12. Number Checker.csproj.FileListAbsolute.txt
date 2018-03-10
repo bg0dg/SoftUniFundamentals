@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\bin\Debug\_12.Number_Checker.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\bin\Debug\_12.Number_Checker.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\bin\Debug\_12.Number_Checker.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\obj\Debug\12. Number Checker.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\obj\Debug\12. Number Checker.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\obj\Debug\_12.Number_Checker.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Number Checker\obj\Debug\_12.Number_Checker.pdb

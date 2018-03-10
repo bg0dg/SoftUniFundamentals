@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\obj\Debug\15. Neighbour Wars_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\obj\Debug\15. Neighbour Wars_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\bin\Debug\_15.Neighbour_Wars_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\bin\Debug\_15.Neighbour_Wars_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\bin\Debug\_15.Neighbour_Wars_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\obj\Debug\_15.Neighbour_Wars_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\15. Neighbour Wars_ex\obj\Debug\_15.Neighbour_Wars_ex.pdb

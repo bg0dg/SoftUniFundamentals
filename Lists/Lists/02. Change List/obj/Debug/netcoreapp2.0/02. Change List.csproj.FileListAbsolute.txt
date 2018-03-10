@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.deps.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.pdb
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.pdb

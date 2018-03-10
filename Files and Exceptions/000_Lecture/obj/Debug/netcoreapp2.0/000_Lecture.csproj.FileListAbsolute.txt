@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\bin\Debug\netcoreapp2.0\000_Lecture.deps.json
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\bin\Debug\netcoreapp2.0\000_Lecture.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\bin\Debug\netcoreapp2.0\000_Lecture.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\bin\Debug\netcoreapp2.0\000_Lecture.dll
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\bin\Debug\netcoreapp2.0\000_Lecture.pdb
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\obj\Debug\netcoreapp2.0\000_Lecture.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\obj\Debug\netcoreapp2.0\000_Lecture.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\obj\Debug\netcoreapp2.0\000_Lecture.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\obj\Debug\netcoreapp2.0\000_Lecture.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\obj\Debug\netcoreapp2.0\000_Lecture.dll
+E:\SoftUni\source\repos_fundamentals\Files and Exceptions\000_Lecture\obj\Debug\netcoreapp2.0\000_Lecture.pdb

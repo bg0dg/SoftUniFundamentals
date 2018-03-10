@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\bin\Debug\_09.Multiplication_Table.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\bin\Debug\_09.Multiplication_Table.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\bin\Debug\_09.Multiplication_Table.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\obj\Debug\09. Multiplication Table.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\obj\Debug\09. Multiplication Table.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\obj\Debug\_09.Multiplication_Table.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Multiplication Table\obj\Debug\_09.Multiplication_Table.pdb

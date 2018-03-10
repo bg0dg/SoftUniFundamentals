@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\16. Comparing floats\bin\Debug\_16.Comparing_floats.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\16. Comparing floats\obj\Debug\16. Comparing floats.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\16. Comparing floats\obj\Debug\_16.Comparing_floats.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\16. Comparing floats\obj\Debug\_16.Comparing_floats.pdb

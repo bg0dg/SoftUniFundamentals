@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\bin\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.deps.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\bin\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\bin\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\bin\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\bin\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.pdb
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\obj\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\obj\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\obj\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\obj\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\obj\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.dll
+E:\SoftUni\source\repos_fundamentals\Lists\Lists\00.1_count_number_of_occurrences\obj\Debug\netcoreapp2.0\00.1_count_number_of_occurrences.pdb

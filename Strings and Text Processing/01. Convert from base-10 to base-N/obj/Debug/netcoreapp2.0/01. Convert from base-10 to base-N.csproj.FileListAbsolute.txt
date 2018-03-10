@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.deps.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.pdb
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.dll
+E:\SoftUni\source\repos_fundamentals\Strings and Text Processing\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\obj\Debug\14. Integer to Hex and Binary.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\obj\Debug\14. Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb

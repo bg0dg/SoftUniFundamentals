@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.csprojResolveAssemblyReference.cache

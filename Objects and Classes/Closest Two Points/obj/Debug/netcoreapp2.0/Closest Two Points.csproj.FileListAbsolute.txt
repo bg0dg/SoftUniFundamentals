@@ -1,0 +1,10 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\bin\Debug\netcoreapp2.0\Closest Two Points.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\Closest Two Points\obj\Debug\netcoreapp2.0\Closest Two Points.pdb

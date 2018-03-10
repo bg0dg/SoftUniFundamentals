@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\bin\Debug\netcoreapp2.0\10. Pairs by Difference.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\10. Pairs by Difference\obj\Debug\netcoreapp2.0\10. Pairs by Difference.pdb

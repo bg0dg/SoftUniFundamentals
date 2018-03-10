@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\03. Employee Data\bin\Debug\_03.Employee_Data.exe.config
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\03. Employee Data\bin\Debug\_03.Employee_Data.exe
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\03. Employee Data\bin\Debug\_03.Employee_Data.pdb
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\03. Employee Data\obj\Debug\03. Employee Data.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\03. Employee Data\obj\Debug\_03.Employee_Data.exe
+E:\SoftUni\source\repos_fundamentals\Lab_ C Sharp Intro and Basic Syntax\03. Employee Data\obj\Debug\_03.Employee_Data.pdb

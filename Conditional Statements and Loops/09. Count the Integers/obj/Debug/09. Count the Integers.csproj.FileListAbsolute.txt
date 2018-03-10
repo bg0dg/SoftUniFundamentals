@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\bin\Debug\_09.Count_the_Integers.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\obj\Debug\09. Count the Integers.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\obj\Debug\09. Count the Integers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\obj\Debug\_09.Count_the_Integers.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\09. Count the Integers\obj\Debug\_09.Count_the_Integers.pdb

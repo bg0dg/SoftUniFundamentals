@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.deps.json
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.pdb
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.dll
+E:\SoftUni\source\repos_fundamentals\Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.pdb

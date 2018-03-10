@@ -1,0 +1,10 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\05. Foreign Languages.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\05. Foreign Languages.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.pdb

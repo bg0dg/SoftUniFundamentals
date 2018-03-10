@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.deps.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.pdb
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.pdb

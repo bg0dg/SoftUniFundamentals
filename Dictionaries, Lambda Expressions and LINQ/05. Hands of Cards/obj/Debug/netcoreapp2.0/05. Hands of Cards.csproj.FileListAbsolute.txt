@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.deps.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.pdb
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.pdb

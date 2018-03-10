@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\bin\Debug\netcoreapp2.0\03. Nether Realms_third.deps.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\bin\Debug\netcoreapp2.0\03. Nether Realms_third.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\bin\Debug\netcoreapp2.0\03. Nether Realms_third.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\bin\Debug\netcoreapp2.0\03. Nether Realms_third.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\bin\Debug\netcoreapp2.0\03. Nether Realms_third.pdb
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\obj\Debug\netcoreapp2.0\03. Nether Realms_third.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\obj\Debug\netcoreapp2.0\03. Nether Realms_third.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\obj\Debug\netcoreapp2.0\03. Nether Realms_third.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\obj\Debug\netcoreapp2.0\03. Nether Realms_third.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\obj\Debug\netcoreapp2.0\03. Nether Realms_third.dll
+E:\SoftUni\source\repos_fundamentals\Exam Preparation1\03. Nether Realms_third\obj\Debug\netcoreapp2.0\03. Nether Realms_third.pdb

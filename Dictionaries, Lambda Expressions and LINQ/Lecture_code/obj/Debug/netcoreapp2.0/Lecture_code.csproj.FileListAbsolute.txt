@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\bin\Debug\netcoreapp2.0\Lecture_code.deps.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\bin\Debug\netcoreapp2.0\Lecture_code.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\bin\Debug\netcoreapp2.0\Lecture_code.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\bin\Debug\netcoreapp2.0\Lecture_code.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\bin\Debug\netcoreapp2.0\Lecture_code.pdb
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\obj\Debug\netcoreapp2.0\Lecture_code.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\obj\Debug\netcoreapp2.0\Lecture_code.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\obj\Debug\netcoreapp2.0\Lecture_code.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\obj\Debug\netcoreapp2.0\Lecture_code.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\obj\Debug\netcoreapp2.0\Lecture_code.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\Lecture_code\obj\Debug\netcoreapp2.0\Lecture_code.pdb

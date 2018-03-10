@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\bin\Debug\_12.Test_Numbers_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\bin\Debug\_12.Test_Numbers_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\bin\Debug\_12.Test_Numbers_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\obj\Debug\12. Test Numbers_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\obj\Debug\12. Test Numbers_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\obj\Debug\_12.Test_Numbers_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\12. Test Numbers_ex\obj\Debug\_12.Test_Numbers_ex.pdb

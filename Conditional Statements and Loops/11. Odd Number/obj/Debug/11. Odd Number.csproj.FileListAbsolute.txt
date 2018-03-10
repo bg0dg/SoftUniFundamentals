@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\bin\Debug\_11.Odd_Number.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\bin\Debug\_11.Odd_Number.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\bin\Debug\_11.Odd_Number.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\obj\Debug\11. Odd Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\obj\Debug\11. Odd Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\obj\Debug\_11.Odd_Number.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\11. Odd Number\obj\Debug\_11.Odd_Number.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.deps.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.pdb
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.dll
+E:\SoftUni\source\repos_fundamentals\Methods. Debugging and Troubleshooting Code\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.pdb

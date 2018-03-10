@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

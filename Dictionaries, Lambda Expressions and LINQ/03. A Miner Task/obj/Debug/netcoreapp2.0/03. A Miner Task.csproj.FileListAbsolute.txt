@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.deps.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.pdb
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.dll
+E:\SoftUni\source\repos_fundamentals\Dictionaries, Lambda Expressions and LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.pdb

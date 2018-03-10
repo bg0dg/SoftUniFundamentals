@@ -1,0 +1,11 @@
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\obj\Debug\netcoreapp2.0\08. Mentor Group.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\obj\Debug\netcoreapp2.0\08. Mentor Group.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\obj\Debug\netcoreapp2.0\08. Mentor Group.AssemblyInfoInputs.cache
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\obj\Debug\netcoreapp2.0\08. Mentor Group.AssemblyInfo.cs
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\bin\Debug\netcoreapp2.0\08. Mentor Group.deps.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\bin\Debug\netcoreapp2.0\08. Mentor Group.runtimeconfig.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\bin\Debug\netcoreapp2.0\08. Mentor Group.runtimeconfig.dev.json
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\bin\Debug\netcoreapp2.0\08. Mentor Group.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\bin\Debug\netcoreapp2.0\08. Mentor Group.pdb
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\obj\Debug\netcoreapp2.0\08. Mentor Group.dll
+E:\SoftUni\source\repos_fundamentals\Objects and Classes\08. Mentor Group\obj\Debug\netcoreapp2.0\08. Mentor Group.pdb

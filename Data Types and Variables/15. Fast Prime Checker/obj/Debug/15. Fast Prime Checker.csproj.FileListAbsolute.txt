@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\obj\Debug\15. Fast Prime Checker.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\obj\Debug\15. Fast Prime Checker.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\bin\Debug\_14.Magic_Letter_ex.exe.config
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\bin\Debug\_14.Magic_Letter_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\bin\Debug\_14.Magic_Letter_ex.pdb
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\obj\Debug\14. Magic Letter_ex.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\obj\Debug\14. Magic Letter_ex.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\obj\Debug\_14.Magic_Letter_ex.exe
+E:\SoftUni\source\repos_fundamentals\Conditional Statements and Loops\14. Magic Letter_ex\obj\Debug\_14.Magic_Letter_ex.pdb

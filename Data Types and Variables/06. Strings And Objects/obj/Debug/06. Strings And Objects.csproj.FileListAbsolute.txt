@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\obj\Debug\06. Strings And Objects.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\obj\Debug\06. Strings And Objects.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+E:\SoftUni\source\repos_fundamentals\Data Types and Variables\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb
